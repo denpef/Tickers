@@ -1,0 +1,26 @@
+{
+    "BTC_BCN": {
+        "id": 7,
+        "last": "0.00000034",
+        "lowestAsk": "0.00000035",
+        "highestBid": "0.00000034",
+        "percentChange": "-0.02857142",
+        "baseVolume": "36.83685922",
+        "quoteVolume": "106900995.57222062",
+        "isFrozen": "0",
+        "high24hr": "0.00000036",
+        "low24hr": "0.00000033"
+    },
+    "BTC_BTS": {
+        "id": 14,
+        "last": "0.00001694",
+        "lowestAsk": "0.00001694",
+        "highestBid": "0.00001687",
+        "percentChange": "0.01134328",
+        "baseVolume": "10.92541021",
+        "quoteVolume": "649036.12294930",
+        "isFrozen": "0",
+        "high24hr": "0.00001709",
+        "low24hr": "0.00001659"
+    }
+}
