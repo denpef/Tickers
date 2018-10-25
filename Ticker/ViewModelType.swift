@@ -8,7 +8,9 @@
 
 import Foundation
 
+// Ciew model type protocol
 protocol ViewModelType {
+    
     associatedtype Input
     associatedtype Output
     
